@@ -1,0 +1,9 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: bruno-config-server
+  profiles:
+    active:
+      - native
